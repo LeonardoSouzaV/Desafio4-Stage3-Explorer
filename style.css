@@ -192,6 +192,11 @@ main {
   h1 {
     padding: 0 6.3rem;
   }
+  
+   .card h2 {
+    display: none;
+  }
+  
   .cards {
     width: 100%;
     margin: 8rem 0 5rem 30rem;
